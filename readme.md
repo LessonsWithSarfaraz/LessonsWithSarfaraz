@@ -39,7 +39,7 @@
                     <a href="https://whatsapp.com/channel/0029Vag09xYJP20yz2wkN61X" target="_blank">📱 WhatsApp</a> | 
                     <a href="https://www.linkedin.com/in/sarfarazit08/" target="_blank">🧑🏽‍🔬 LinkedIn</a> | 
                     <a href="https://www.youtube.com/@LessonsWithSarfaraz" target="_blank">▶️ YouTube</a> | 
-                    <a href="https://learn.microsoft.com/en-us/users/sarfarazit" target="_blank">🪟 Microsoft </a> |
+                    <a href="https://learn.microsoft.com/en-us/users/sarfarazit08" target="_blank">🪟 Microsoft </a> |
                     <a href="mailto:sarfarazit@gmail.com">📧 Gmail</a> <br>
                     <a href="https://www.instagram.com/sarfarazit/" target="_blank">📷 Instagram</a> | 
                     <a href="https://twitter.com/sarfarazit/" target="_blank">🐦 Twitter</a> | 
